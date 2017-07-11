@@ -1,7 +1,7 @@
-Advanced Android Sample App
+Sunshine Watch Face
 ===================================
 
-Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
+## Build a wearable watch face for Sunshine to run on an Android Wear device.
 
 Pre-requisites
 --------------
