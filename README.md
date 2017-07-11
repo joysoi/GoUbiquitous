@@ -1,7 +1,7 @@
 Sunshine Watch Face
 ===================================
 
-# Build a wearable watch face for Sunshine to run on an Android Wear device.
+Build a wearable watch face for Sunshine to run on an Android Wear device.
 
 Pre-requisites
 --------------
